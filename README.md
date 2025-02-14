@@ -1,6 +1,8 @@
 # ADCP-calibration-rig
 This repo documents the design and build of an ADCP calibration rig for a Nortek Signature 100.
 
+# Onshape CAD
+This project was designed in a browser-based CAD program called Onshape. The document for this project can be found [here](https://cad.onshape.com/documents/10602cede9c07e59b6c9bb3e/w/70dcfadde18bdff9054825df/e/5ac3f072fa41a360b08c238f)
 
 # ADCP calibration rig buoyancy calculation
 ### using Archimedes principle 
