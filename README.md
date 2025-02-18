@@ -1,5 +1,8 @@
 # ADCP-calibration-rig
-This repo documents the design and build of an ADCP calibration rig for a Nortek Signature 100.
+This repo documents the design and build of an ADCP calibration rig for a Nortek Signature 100. The rig utilizes syntactic foam and a large footprint to stay afloat and stable in a calibration tank. It is designed to be lifted with an over-head crane while the ADCP is attached. Future versions of this calibration tool will include lasers, cameras, and motorized ball movement to expidite the calibration process.
+![adcpCalibrationRigAssy (3)](https://github.com/user-attachments/assets/6682834f-5ccf-42f9-8efa-a0ea38b2a108)
+
+
 
 # Onshape CAD
 This project was designed in a browser-based CAD program called Onshape. The document for this project can be found [here](https://cad.onshape.com/documents/10602cede9c07e59b6c9bb3e/w/70dcfadde18bdff9054825df/e/5ac3f072fa41a360b08c238f)
